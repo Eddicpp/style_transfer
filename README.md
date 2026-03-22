@@ -182,27 +182,6 @@ Large images (1024px+) on 8GB unified memory machines can trigger out-of-memory 
 
 ---
 
-## 🖼️ Visual Results
-
-### Example 1 — Van Gogh's cat
-
-| Content | Style | Output |
-|:--:|:--:|:--:|
-| ![content](https://github.com/user-attachments/assets/78aa32d5-4c67-4668-b256-02b8c20799b8)
-) | ![style](https://github.com/user-attachments/assets/e84c715b-0fc6-45fc-b7c1-d8ce668525f3)
- | ![Output](<img width="380" height="200" alt="image" src="https://github.com/user-attachments/assets/32e41f81-d0ea-4db9-aed5-272d40bfceca" />) |
-| *Countryside photograph* | *Monet — Water Lilies* | *1000 steps · α=1 · β=10⁶* |
-
-### Optimization Progress
-
-<p align="center">
-  <img src="assets/results/optimization_progress.gif" alt="Optimization over 1000 steps" width="600"/>
-</p>
-
-<!-- Tip: generate this GIF by saving frames at show_every intervals and stitching with ffmpeg or imageio -->
-
----
-
 ## 🎛️ Hyperparameter Guide
 
 | Parameter | Range | Effect |
