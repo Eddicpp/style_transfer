@@ -184,28 +184,14 @@ Large images (1024px+) on 8GB unified memory machines can trigger out-of-memory 
 
 ## 🖼️ Visual Results
 
-### Example 1 — Impressionist Landscape
+### Example 1 — Van Gogh's cat
 
 | Content | Style | Output |
 |:--:|:--:|:--:|
-| ![Content](assets/results/example1_content.jpg) | ![Style](assets/results/example1_style.jpg) | ![Output](assets/results/example1_output.jpg) |
+| ![content](https://github.com/user-attachments/assets/78aa32d5-4c67-4668-b256-02b8c20799b8)
+) | ![style](https://github.com/user-attachments/assets/e84c715b-0fc6-45fc-b7c1-d8ce668525f3)
+ | ![Output](<img width="380" height="200" alt="image" src="https://github.com/user-attachments/assets/32e41f81-d0ea-4db9-aed5-272d40bfceca" />) |
 | *Countryside photograph* | *Monet — Water Lilies* | *1000 steps · α=1 · β=10⁶* |
-
-### Example 2 — Expressionist Portrait
-
-| Content | Style | Output |
-|:--:|:--:|:--:|
-| ![Content](assets/results/example2_content.jpg) | ![Style](assets/results/example2_style.jpg) | ![Output](assets/results/example2_output.jpg) |
-| *Portrait photograph* | *Van Gogh — Starry Night* | *1500 steps · α=1 · β=10⁶* |
-
-### Example 3 — Abstract Cityscape
-
-| Content | Style | Output |
-|:--:|:--:|:--:|
-| ![Content](assets/results/example3_content.jpg) | ![Style](assets/results/example3_style.jpg) | ![Output](assets/results/example3_output.jpg) |
-| *Urban skyline* | *Kandinsky — Composition VIII* | *2000 steps · α=1 · β=5×10⁵* |
-
-<!-- Replace all image paths with your actual output files -->
 
 ### Optimization Progress
 
